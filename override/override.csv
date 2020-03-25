@@ -1,4 +1,5 @@
 ﻿old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
+,,Diamond Princess,,,Diamond Princess,,,,,,,
 ,,CAR,,,Central African Republic,,,,,,,
 ,,Channel Islands,,Channel Islands,United Kingdom,,,,,,,
 ,,Congo,,,Congo (Brazzaville),,,,,,,
@@ -58,3 +59,5 @@ Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,,,,Wuhan Evacuee,US,,,0,,,,
+,Yukon,Canada,,Yukon,Canada,64.2823,-135.0000,,,,,
+,Northwest Territories,Canada,,French Polynesia,Canada,64.8255,-124.8457,,,,,
